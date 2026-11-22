@@ -1,3 +1,6 @@
+-- GESTOR UTILIZADO:  SQL Server 
+______________________________________________
+
 --- ¿Por qué usaste LEFT JOIN para la Consulta 1 y no INNER JOIN? ¿Qué se perdería si usaras INNER JOIN?
 
 -- En la consulta 1 usé LEFT JOIN porque la pregunta busca que la consulta traiga todos los productos (tabla de la izquierda) con los pedidos que nunca 
