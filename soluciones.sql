@@ -3,6 +3,7 @@
 -- Autor: Guillermina de las Carreras
 -- Fecha: 22/11/2026
 -- ══════════════════════════════════════════
+USE MiniStore;
 
 -- ── CONSULTA 1: LEFT JOIN ─────────────────
 -- Pregunta de negocio: ¿Qué productos del catálogo nunca fueron vendidos?
