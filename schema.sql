@@ -2,6 +2,9 @@
 -- MiniStore — Schema y datos de prueba
 -- ══════════════════════════════════════════
 
+CREATE DATABASE IF NOT EXISTS MiniStore;
+USE MiniStore;
+
 DROP TABLE IF EXISTS ventas;
 DROP TABLE IF EXISTS productos;
 
